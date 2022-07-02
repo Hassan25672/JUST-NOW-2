@@ -10,4 +10,4 @@ git clone https://github.com/Mrxaiver/JUST-NOW-2
 
 cd JUST-NOW-2
 
-python2 klein.py
+python klein.py
